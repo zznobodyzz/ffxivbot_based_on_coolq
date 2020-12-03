@@ -1,0 +1,9 @@
+key 奥雷大佬牛逼 value 必须的 teacher 奥雷 image 0 
+key 萨斯噶奥雷大佬 value 必须的 teacher 奥雷 image 0 
+key 小雷大佬牛逼 value 我膨胀了 teacher 奥雷 image 0 
+key 我可以 value 你不可以 teacher 西尔泽 image 0 
+key 我可以惹 value 妹妹也可以噜 teacher 西尔泽 image 0 
+key 不愧是奥雷大佬 value 过奖过奖 再夸要膨胀了 teacher 黯 黯 image 0 0 
+key 哭 value 不哭不哭 teacher 奥雷 image 1 
+key 猴 value 两开花，两开花！ teacher 奥雷 image 1 
+key 绝西西 value 绝西西？就是吉田说的全宇宙只要有一个队能过就行了的？ teacher 奥雷 image 1 
